@@ -42,4 +42,8 @@ Python 3, no third-party dependencies. Bugs are part of the learning process and
 3. Convince the computer the code was intentional.
 4. Repeat until employable or out of cheese.
 
-No production guarantees. No academic breakthroughs promised. Just learning in public-ish.
+No production guarantees. No academic breakthroughs promised. Just learning in public.
+
+## License
+
+[MIT](LICENSE) — do whatever, just keep the copyright and license notice.
